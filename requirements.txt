@@ -1,6 +1,2 @@
 discord.py==2.3.2
-.gitignore:
-__pycache__/
-*.pyc
-.env
-token.txt
+python-dotenv==1.0.0
